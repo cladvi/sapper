@@ -44,3 +44,9 @@
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<h3 class="widget-title">Pages</h3>
+<p style="text-align: left;">•<a href="http://www.counzila.com/">Home</a>
+•<a href="https://www.counzila.com/education/">for individuals</a>
+•<a href="https://coatq.com/social/">for families</a>
+•<a href="https://www.counzila.com/wealth/">for busineses</a>
+</p>
