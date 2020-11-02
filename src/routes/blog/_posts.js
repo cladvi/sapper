@@ -83,6 +83,17 @@ const posts = [
 			<p>We're so glad you asked! Come on over to the <a href='https://github.com/sveltejs/svelte'>Svelte</a> and <a href='https://github.com/sveltejs/sapper'>Sapper</a> repos, and join us in the <a href='https://svelte.dev/chat'>Discord chatroom</a>. Everyone is welcome, especially you!</p>
 		`,
   },
+	
+	
+  {
+    title: 'What can i expect?',
+    slug: 'what-can-expect',
+    html: `
+			<p>We're happy you still here! It's not about Borat, Its about coatq yes no question here <a href='https://coatq.com'>Coatq quize</a> and <a href='https://coatq.com/cotact'>Coatq conatc page</a> you can ask, and join us in the <a href='https://leave95.com'>small biz community</a>. Everyone is welcome, especially you!</p>
+		`,
+  },	
+	
+	
 ];
 
 posts.forEach(post => {
