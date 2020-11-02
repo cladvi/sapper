@@ -4,4 +4,4 @@
 
 <h1>About this site</h1>
 
-<p>This is the 'about' page. There's not much here.</p>
+<p>This is the gateway to fun and success we share tips and trciks in a fun way, Be like Borat</p>
